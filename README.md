@@ -1,3 +1,3 @@
 WEBSITE DA PSICOLOGIA DAS CORES EM BREAKING BAD
 
-Este site foi desenvolvido pelo desenvolvedor João Paulo para a prática da linguagem de marcação (HTML) e estilização de uma página website (CSS).
+Este site foi desenvolvido pelo desenvolvedor João Paulo para a prática da linguagem de marcação (HTML) e estilização de uma página website (CSS). O tema que desenvolvi nesse projeto é de meu interesse, a psicologia das cores está sendo utilizada no cinema mas pode ser colocada em projetos de software como uma forma de atrair clientes, gerar uma estética para sua marca, transmitir um pensamento ou sentimento. Breaking Bad (uma série aclamada pelo mundo inteiro) utiliza em todas suas temporadas essa psicologia e quis, através desse site, passar meus conhecimentos e visões sobre a psicologia usada na série.
